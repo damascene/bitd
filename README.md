@@ -9,7 +9,7 @@ If you intend to run a full un-pruned bitdb node, it is recommended that your se
 
 ### Prerequisite
 First you need to do the following:
-1. Install Bitcoin ABC or equivilant node software on your server
+1. Install Bitcoin Cash Node or equivilant node software on your server
 2. Install the latest versions of NPM and Nodejs on your server
 2. Install MongoDB on your server
 
